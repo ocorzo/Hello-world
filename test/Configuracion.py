@@ -8,3 +8,4 @@ TxRxPins = [33, 19] # Los pines donde está conectado el sensor [33, 19] para ca
 LogEnTerminal = False # Habilita el envío de log a la consola repl
 
 # Esta es solo una línea para probar el OTA
+# Seguimos probando el OTA
